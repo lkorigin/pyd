@@ -1,7 +1,7 @@
 project('PyD', 'd',
     meson_version: '>=0.46',
     license: 'MIT',
-    version: '0.10.2'
+    version: '0.10.5'
 )
 
 project_soversion = '0'
